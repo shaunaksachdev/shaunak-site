@@ -1,79 +1,121 @@
 [
   {
-    "name": "Lonsdale Quay Market",
-    "lat": 49.3097,
-    "lng": -123.0753,
-    "category": "food",
-    "note": "Great for a morning browse — fresh produce, local vendors, and views of the inlet."
+    "name": "Cow's Ice Cream",
+    "lat": 50.1181,
+    "lng": -122.9559,
+    "category": "dessert",
+    "note": "Canada's best ice cream — worth the drive to Whistler Village."
   },
   {
-    "name": "Lynn Canyon Park",
-    "lat": 49.3453,
-    "lng": -123.0228,
-    "category": "nature",
-    "note": "Free suspension bridge. Less crowded than Capilano, just as good."
+    "name": "BeaverTails",
+    "lat": 49.3484,
+    "lng": -123.1975,
+    "category": "dessert",
+    "note": "Hot pastry on a cold mountain. The classic après-ski move."
   },
   {
-    "name": "Deep Cove",
-    "lat": 49.3258,
-    "lng": -122.9483,
-    "category": "nature",
-    "note": "Rent a kayak or grab a Honey Doughnut and walk the cove."
+    "name": "La Casa Gelato",
+    "lat": 49.277,
+    "lng": -123.0816,
+    "category": "dessert",
+    "note": "Over 200 flavours at any given time. Decision paralysis guaranteed."
   },
   {
-    "name": "Lighthouse Park",
-    "lat": 49.3326,
-    "lng": -123.2632,
-    "category": "nature",
-    "note": "Old-growth forest that ends at the ocean. One of the best hikes near the city."
+    "name": "Ricardo's",
+    "lat": 49.2848,
+    "lng": -123.1247,
+    "category": "dessert",
+    "note": "Robson's go-to candy and gelato spot. Dangerous after dinner."
   },
   {
-    "name": "Spanish Banks",
-    "lat": 49.2723,
-    "lng": -123.1970,
-    "category": "nature",
-    "note": "Best sunset spot in Vancouver. Go at low tide — the beach doubles in size."
+    "name": "Dairy Queen",
+    "lat": 49.2802,
+    "lng": -122.9666,
+    "category": "dessert",
+    "note": "Kensington Square DQ. Blizzards hit different at this one."
   },
   {
-    "name": "Cypress Mountain Lookout",
-    "lat": 49.3959,
-    "lng": -123.2047,
-    "category": "view",
-    "note": "City skyline, ocean, and islands all in one frame. Park at the base and walk up."
+    "name": "Ladurée",
+    "lat": 49.2853,
+    "lng": -123.1256,
+    "category": "dessert",
+    "note": "Parisian macarons on Robson. Feels fancy, tastes fancier."
   },
   {
-    "name": "Granville Island Public Market",
-    "lat": 49.2718,
-    "lng": -123.1340,
-    "category": "food",
-    "note": "Crowded but worth it. Fresh pasta and local cheese are non-negotiable."
+    "name": "The Waffle Co",
+    "lat": 49.291,
+    "lng": -123.1342,
+    "category": "dessert",
+    "note": "Indian-style waffles and desserts. The loaded ones are unreal."
   },
   {
-    "name": "Phnom Penh",
-    "lat": 49.2810,
-    "lng": -123.0975,
-    "category": "food",
-    "note": "Butter beef. No debate."
+    "name": "Jinya Ramen",
+    "lat": 49.2803,
+    "lng": -123.1179,
+    "category": "restaurant",
+    "note": "Tonkotsu done right. The spicy creamy vegan is a sleeper hit."
   },
   {
-    "name": "Matchstick Coffee",
-    "lat": 49.2807,
-    "lng": -123.0972,
-    "category": "coffee",
-    "note": "Rotating single origins. The most honest cup in the city."
+    "name": "Mr. Shawarma",
+    "lat": 49.2852,
+    "lng": -123.1206,
+    "category": "restaurant",
+    "note": "Best shawarma in downtown. The garlic sauce is non-negotiable."
   },
   {
-    "name": "Nemesis Coffee",
-    "lat": 49.2786,
-    "lng": -123.1000,
-    "category": "coffee",
-    "note": "Good vibes, great flat white. The Yaletown location is the one."
+    "name": "Sula Indian Restaurant",
+    "lat": 49.2744,
+    "lng": -123.0694,
+    "category": "restaurant",
+    "note": "Proper Indian food on the Drive. The butter chicken is legit."
   },
   {
-    "name": "Thierry",
-    "lat": 49.2841,
-    "lng": -123.1207,
-    "category": "coffee",
-    "note": "Pastries and espresso — the most European afternoon Vancouver offers."
+    "name": "Old Spaghetti Factory",
+    "lat": 49.2838,
+    "lng": -123.1054,
+    "category": "restaurant",
+    "note": "Gastown institution. Unlimited bread and nostalgia."
+  },
+  {
+    "name": "Chongqing Restaurant",
+    "lat": 49.2268,
+    "lng": -122.9938,
+    "category": "restaurant",
+    "note": "Sichuan heat near Metrotown. Order the boiled fish if you dare."
+  },
+  {
+    "name": "Manjal South Indian Kitchen",
+    "lat": 49.2233,
+    "lng": -122.9433,
+    "category": "restaurant",
+    "note": "South Indian comfort food. The dosas are massive."
+  },
+  {
+    "name": "Din Tai Fung",
+    "lat": 49.2857,
+    "lng": -123.1247,
+    "category": "restaurant",
+    "note": "The soup dumplings live up to the hype. Expect a wait."
+  },
+  {
+    "name": "Vij's",
+    "lat": 49.2576,
+    "lng": -123.1148,
+    "category": "restaurant",
+    "note": "Vikram Vij's legendary spot. No reservations, always worth the wait."
+  },
+  {
+    "name": "Chicken World",
+    "lat": 49.2878,
+    "lng": -123.1412,
+    "category": "restaurant",
+    "note": "Late-night fried chicken near English Bay. Simple and perfect."
+  },
+  {
+    "name": "Uncle Fatih's Pizza",
+    "lat": 49.2782,
+    "lng": -122.91,
+    "category": "restaurant",
+    "note": "SFU campus staple. The pide slices fuel every study session."
   }
 ]
