@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Metro Vancouver — Shaunak</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600&family=Inter:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+</head>
+<body>
+
+  <nav aria-label="Primary">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">shaunak.</a>
+      <div class="nav-links">
+        <a href="blog.html">blog</a>
+        <a href="vancouver.html" class="active">metro vancouver</a>
+      </div>
+    </div>
+  </nav>
+
+  <main style="flex: 1;">
+    <div class="page-wrap" style="max-width: 820px;">
+      <a href="index.html" class="back-link">&larr; home</a>
+
+      <h1 class="page-title">Metro Vancouver</h1>
+      <p class="page-subtitle">My favourite spots around the Lower Mainland.</p>
+
+      <div id="map" aria-label="Map of favourite Metro Vancouver spots" role="img"></div>
+
+      <div class="filters" role="group" aria-label="Filter spots by category">
+        <button class="pill active" data-cat="all">all</button>
+        <button class="pill" data-cat="coffee">coffee</button>
+        <button class="pill" data-cat="food">food</button>
+        <button class="pill" data-cat="nature">nature</button>
+        <button class="pill" data-cat="view">view</button>
+      </div>
+
+      <div class="spot-list" id="spotList"></div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-left">
+        <a href="#">privacy policy</a>
+        <span>&middot;</span>
+        <a href="#">terms of use</a>
+      </div>
+      <span>&copy; 2026 shaunak</span>
+    </div>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="js/vancouver-map.js"></script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Lonsdale Quay Market",
+    "lat": 49.3097,
+    "lng": -123.0753,
+    "category": "food",
+    "note": "Great for a morning browse — fresh produce, local vendors, and views of the inlet."
+  },
+  {
+    "name": "Lynn Canyon Park",
+    "lat": 49.3453,
+    "lng": -123.0228,
+    "category": "nature",
+    "note": "Free suspension bridge. Less crowded than Capilano, just as good."
+  },
+  {
+    "name": "Deep Cove",
+    "lat": 49.3258,
+    "lng": -122.9483,
+    "category": "nature",
+    "note": "Rent a kayak or grab a Honey Doughnut and walk the cove."
+  },
+  {
+    "name": "Lighthouse Park",
+    "lat": 49.3326,
+    "lng": -123.2632,
+    "category": "nature",
+    "note": "Old-growth forest that ends at the ocean. One of the best hikes near the city."
+  },
+  {
+    "name": "Spanish Banks",
+    "lat": 49.2723,
+    "lng": -123.1970,
+    "category": "nature",
+    "note": "Best sunset spot in Vancouver. Go at low tide — the beach doubles in size."
+  },
+  {
+    "name": "Cypress Mountain Lookout",
+    "lat": 49.3959,
+    "lng": -123.2047,
+    "category": "view",
+    "note": "City skyline, ocean, and islands all in one frame. Park at the base and walk up."
+  },
+  {
+    "name": "Granville Island Public Market",
+    "lat": 49.2718,
+    "lng": -123.1340,
+    "category": "food",
+    "note": "Crowded but worth it. Fresh pasta and local cheese are non-negotiable."
+  },
+  {
+    "name": "Phnom Penh",
+    "lat": 49.2810,
+    "lng": -123.0975,
+    "category": "food",
+    "note": "Butter beef. No debate."
+  },
+  {
+    "name": "Matchstick Coffee",
+    "lat": 49.2807,
+    "lng": -123.0972,
+    "category": "coffee",
+    "note": "Rotating single origins. The most honest cup in the city."
+  },
+  {
+    "name": "Nemesis Coffee",
+    "lat": 49.2786,
+    "lng": -123.1000,
+    "category": "coffee",
+    "note": "Good vibes, great flat white. The Yaletown location is the one."
+  },
+  {
+    "name": "Thierry",
+    "lat": 49.2841,
+    "lng": -123.1207,
+    "category": "coffee",
+    "note": "Pastries and espresso — the most European afternoon Vancouver offers."
+  }
+]
